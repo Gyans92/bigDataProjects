@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143ebe78-b532-4822-acc9-dbdf8f3188bc" name="Default Changelist" comment="" />
+    <list default="true" id="8bd2257f-3d52-4f01-91d8-6c11cd6b97c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HDFSUpload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bigDataProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDFSUpload/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HDFSUpload/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SlVxs3y2OTH0YlMWvhdcaDZamC" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HDFSUpload" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1Slj2kc3H5eJLFSgnwOgKNkjfJK" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -29,12 +36,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="143ebe78-b532-4822-acc9-dbdf8f3188bc" name="Default Changelist" comment="" />
-      <created>1572138418545</created>
+      <changelist id="8bd2257f-3d52-4f01-91d8-6c11cd6b97c8" name="Default Changelist" comment="" />
+      <created>1572144871106</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572138418545</updated>
+      <updated>1572144871106</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

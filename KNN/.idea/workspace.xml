@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6ce16b6-eb62-4f0c-82b0-853ef6378376" name="Default Changelist" comment="">
+    <list default="true" id="1444a1e0-b5ab-4e6a-8524-6012606a5d38" name="Default Changelist" comment="KNN - K Nearest neighbours using Hadoop map reduce">
       <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDFSUpload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/KNN-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/KNN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/report.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/src/main/java/edu/ucr/cs/cs226/gprak001/KNN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/src/test/java/edu/ucr/cs/cs226/gprak001/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/KNN-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/classes/edu/ucr/cs/cs226/gprak001/KNN.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/surefire-reports/TEST-edu.ucr.cs.cs226.gprak001.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/surefire-reports/edu.ucr.cs.cs226.gprak001.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KNN/target/test-classes/edu/ucr/cs/cs226/gprak001/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/gprak001/KNN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/ucr/cs/cs226/gprak001/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/KNN-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/ucr/cs/cs226/gprak001/KNN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.ucr.cs.cs226.gprak001.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/edu.ucr.cs.cs226.gprak001.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/edu/ucr/cs/cs226/gprak001/AppTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/bigDataProjects.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HDFSUpload-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/HDFSUpload-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ucr/cs/cs226/gprak001/HDFSUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ucr/cs/cs226/gprak001/HDFSUpload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDFSUpload/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HDFSUpload/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDFSUpload/target/HDFSUpload-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../HDFSUpload/target/HDFSUpload-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDFSUpload/target/classes/edu/ucr/cs/cs226/gprak001/HDFSUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HDFSUpload/target/classes/edu/ucr/cs/cs226/gprak001/HDFSUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDFSUpload/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../HDFSUpload/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +46,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gyan &lt;gyanprakash92@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -55,16 +67,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1SLa7t4xNg1DbZSadqKUQxd0Wt6" />
+  <component name="ProjectId" id="1Slt31WxghpRdG0wkSPGxbECAuF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HDFSUpload" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +88,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="HDFSUpload [install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -104,7 +113,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="gprak001 [install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -135,11 +144,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6ce16b6-eb62-4f0c-82b0-853ef6378376" name="Default Changelist" comment="" />
-      <created>1571345165669</created>
+      <changelist id="1444a1e0-b5ab-4e6a-8524-6012606a5d38" name="Default Changelist" comment="" />
+      <created>1572149806938</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571345165669</updated>
+      <updated>1572149806938</updated>
     </task>
     <servers />
   </component>
@@ -158,5 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="KNN - K Nearest neighbours using Hadoop map reduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="KNN - K Nearest neighbours using Hadoop map reduce" />
   </component>
 </project>
